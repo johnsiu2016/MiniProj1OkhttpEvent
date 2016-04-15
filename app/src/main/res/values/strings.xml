@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiniProj1OkhttpEvent</string>
+    <string name="action_settings">Settings</string>
+    <string name="zh_tw">距離</string>
+    <string name="zh_cn">距离</string>
+    <string name="zh_hk">距離</string>
+</resources>
